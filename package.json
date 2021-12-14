@@ -1,0 +1,16 @@
+{
+  "name": "js-5pf7ig",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@firebase/util": "0.2.50",
+    "events": "3.3.0",
+    "firebase": "6.6.2",
+    "firebaseui": "4.8.1",
+    "http": "^0.0.0",
+    "https": "^1.0.0",
+    "memcpy": "0.6.0",
+    "protobufjs": "6.11.2",
+    "url": "0.11.0"
+  }
+}
